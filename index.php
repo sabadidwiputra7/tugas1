@@ -12,13 +12,14 @@
 
 <div class ="a">
 <?php
+	echo "<background color='gold'>;
 	echo "<table border = '2' >";
 	echo "<tr>";
 	echo "<td><font size ='14'> NIM </td>" ;
 	echo "<td><font size ='14'> 10116314 </td> " ;
 	echo "</tr>";
 	echo "<tr>";
-	echo "<td> Nama </td>"; 
+	echo "<td> <font size ='14'> Nama </td>"; 
 	echo "<td><font size ='14'> SABADI DWIPUTRA </font> </td> " ;
 	echo "</tr>";
 	echo "</table>";
